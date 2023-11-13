@@ -1,0 +1,7 @@
+# 引用Github上的主题 即主题地址为https://github.com/PasseRR/jekyll-gitbook-theme
+remote_theme: PasseRR/jekyll-gitbook-theme
+# 可以指定版本、分支或者标签
+remote_theme: PasseRR/jekyll-gitbook-theme@dev
+remote_theme: PasseRR/jekyll-gitbook-theme@V1.0.0
+# 使用url
+remote_theme: http://directist.github.io/
